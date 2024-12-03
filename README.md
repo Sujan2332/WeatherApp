@@ -1,4 +1,4 @@
-*## WeatherApp 🌦️*
+* ## WeatherApp 🌦️ *
 *A weather application that provides real-time weather updates for any city you search for. The application uses the OpenWeatherMap API to fetch weather data and displays a dynamic video background based on the weather conditions.*
 
 *## Features 🎯*
