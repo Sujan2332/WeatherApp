@@ -1,7 +1,7 @@
-# WeatherApp 🌦️
+## WeatherApp 🌦️
 ### A weather application that provides real-time weather updates for any city you search for. The application uses the OpenWeatherMap API to fetch weather data and displays a dynamic video background based on the weather conditions.
 
-# Features 🎯
+## Features 🎯
 ### Dynamic Background Videos: Changes according to the current weather (Sunny, Rain, Cloudy, Snow, Thunderstorm, or Default).
 ### Search Functionality: Type in a city name and hit "Enter" to get instant weather details.
 ### Detailed Weather Information:
@@ -10,39 +10,39 @@ Sunrise and sunset timings.
 Wind speed and direction.
 Ground and sea level pressures.
 
-# Demo 🎥
+## Demo 🎥
 
 
-# Installation 🔧
-## Clone this repository:
+## Installation 🔧
+### Clone this repository:
 
 ```
 git clone https://github.com/Sujan2332/WeatherApp.git
 cd WeatherApp
 ```
 
-## Install dependencies:
+### Install dependencies:
 
 ```
 npm install
 ```
 
-## Create a .env file in the root directory and add your OpenWeatherMap API key:
+### Create a .env file in the root directory and add your OpenWeatherMap API key:
 
 makefile
 ```
 VITE_API_KEY=your_openweathermap_api_key
 ```
 
-Start the application:
+### Start the application:
 
 ```
 npm run dev
 ```
 
-Open your browser and navigate to http://localhost:5173.
+### Open your browser and navigate to http://localhost:5173.
 
-File Structure 📂
+### File Structure 📂
 ```
 WeatherApp/
 ├── public/
