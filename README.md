@@ -1,9 +1,11 @@
 ## WeatherApp 🌦️
-### A weather application that provides real-time weather updates for any city you search for. The application uses the OpenWeatherMap API to fetch weather data and displays a dynamic video background based on the weather conditions.
+ A weather application that provides real-time weather updates for any city you search for. The application uses the OpenWeatherMap API to fetch weather data and displays a dynamic video background based on the weather conditions.
 
 ## Features 🎯
-### Dynamic Background Videos: Changes according to the current weather (Sunny, Rain, Cloudy, Snow, Thunderstorm, or Default).
-### Search Functionality: Type in a city name and hit "Enter" to get instant weather details.
+### Dynamic Background Videos: 
+Changes according to the current weather (Sunny, Rain, Cloudy, Snow, Thunderstorm, or Default).
+### Search Functionality: 
+Type in a city name and hit "Enter" to get instant weather details.
 ### Detailed Weather Information:
 Temperature, humidity, weather description, and more.
 Sunrise and sunset timings.
@@ -63,27 +65,24 @@ WeatherApp/
 
 ## Technologies Used 🛠️
 
-### Frontend: React.js
-### Styling: CSS
-### API: OpenWeatherMap
+Frontend: React.js
+Styling: CSS
+API: OpenWeatherMap
 
 ## Usage Instructions 📖
 
-### Enter the name of a city in the search bar.
-### Press Enter to fetch weather details.
-### Enjoy the immersive weather-themed background video!
+Enter the name of a city in the search bar.
+Press Enter to fetch weather details.
+Enjoy the immersive weather-themed background video!
 
 ## Future Enhancements 🚀
-### Add support for hourly and weekly weather forecasts.
-### Implement a responsive design for mobile devices.
-### Include additional weather conditions.
+Add support for hourly and weekly weather forecasts.
+Implement a responsive design for mobile devices.
+Include additional weather conditions.
 
 ## Contributing 🤝
-### Contributions, issues, and feature requests are welcome!
-### Feel free to check the issues page to collaborate.
+Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page to collaborate.
 
 # License 📄
-## This project is licensed under the MIT License. See the LICENSE file for more details.
-
-License 📄
-This project is licensed under the MIT License. See the LICENSE file for more details.
+### This project is licensed under the MIT License. See the LICENSE file for more details.
