@@ -65,8 +65,8 @@ WeatherApp/
 
 ## Technologies Used 🛠️
 
-Frontend: React.js
-Styling: CSS
+Frontend: React.js,
+Styling: CSS,
 API: OpenWeatherMap
 
 ## Usage Instructions 📖
