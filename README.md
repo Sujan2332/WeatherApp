@@ -12,9 +12,6 @@
 *Wind speed and direction.*
 *Ground and sea level pressures.*
 
-## *Demo 🎥*
-
-
 ## *Installation 🔧*
 ### *Clone this repository:*
 
