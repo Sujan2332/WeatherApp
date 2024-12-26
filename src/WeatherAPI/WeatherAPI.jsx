@@ -101,7 +101,7 @@ const WeatherAPI = () => {
                 </video>
             )}
             <h1>Weather Report</h1>
-            <input className="search" type="text" value={city} onChange={(e) => setCity(e.target.value)} onKeyPress={handleKeyPress} placeholder="Enter city"/>
+            <input className="search" type="text" value={city} onChange={(e) => setCity(e.target.value)} onKeyPress={handleKeyPress} placeholder="Enter city" style={{fontWeight:"900"}}/>
             {data.main && (
                 <div id="cards" style={{marginBottom :" 20px"}}>
                     <h2>Weather in {data.name} of The Country {data.sys.country}</h2>
