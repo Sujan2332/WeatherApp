@@ -12,7 +12,7 @@ const WeatherAPI = () => {
     const [city, setCity] = useState("");
     const [backgroundVideo, setBackgroundVideo] = useState(null);
     const apiKey = import.meta.env.VITE_API_KEY;
-    console.log("Background Chnagewd")
+    console.log("Black")
     const fetchApi = useCallback(async () => {
         if (city === "") {
             setBackgroundVideo("default");
