@@ -74,7 +74,7 @@ const WeatherAPI = () => {
         <div 
             className="weatherapi" 
             style={{
-                backgroundImage: backgroundVideo ? 'transaparent' : ``,
+                backgroundImage: backgroundVideo ? 'none' : ``,
                 backgroundSize: "cover",
                 backgroundRepeat: "no-repeat",
                 backgroundBlendMode: "overlay",
