@@ -12,6 +12,9 @@
 *Wind speed and direction.*
 *Ground and sea level pressures.*
 
+## *Preview 📺*
+### *[Weather Application ☁️](https://sujan2332.github.io/WeatherApp/)*
+
 ## *Installation 🔧*
 ### *Clone this repository:*
 
