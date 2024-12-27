@@ -1,5 +1,6 @@
 html,body{
   background: transparent;
+  background: black;
 }
 #root {
   max-width: 1280px;
